@@ -4,7 +4,7 @@
  * This program is licensed under the GNU GPL v2.0 or any later version.
  * 
  * For more details, see COPYING file or 
- * <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>
+ * <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>.
  */
 
 package com.github.thiagomagh.batalhanaval;
