@@ -3,7 +3,7 @@
  *  
  * This program is licensed under the GNU GPL v2.0 or any later version.
  * 
- * For more details, see COPYING file or 
+ * See the COPYING file at the root of this distribution or at 
  * <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>.
  */
 
