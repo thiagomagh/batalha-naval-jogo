@@ -1,15 +1,15 @@
 /*
- * Copyright (C) 2023 by Thiago Magalhães <https://github.com/thiagomagh>
+ * Copyright (C) 2023 Thiago Magalhães <https://github.com/thiagomagh>
  *  
  * This code is licensed under the GNU GPL v2.0 or any later version.
- * 
- * See the COPYING file at the root of this distribution or at 
- * <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>.
+ * For details, see the COPYING file at the root of this distribution
+ * or at <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>.
  */
 
 package com.github.thiagomagh.batalhanaval.model;
 
-import org.eclipse.jdt.annotation.NonNull;
+// Uncomment the following line if you wish to use @NonNull annotation.
+// import org.eclipse.jdt.annotation.NonNull;
 
 import com.github.thiagomagh.batalhanaval.factory.FactoryNavio;
 
@@ -171,7 +171,8 @@ public class Tabuleiro {
 		imprimirLinhaInferior();
 	}
 	
-	public void imprimirLinha(char @NonNull [] tab) {
+	// Uncomment the following line if you wish to use @NonNull annotation.
+	public void imprimirLinha(char /* @NonNull */ [] tab) {
 		for (int i = 0; i < tab.length; i++) {
 			if (tab[i] == '#') {
 				System.out.print(". ");
