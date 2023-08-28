@@ -2,7 +2,7 @@
  * Copyright (C) 2023 Thiago Magalhães <https://github.com/thiagomagh>
  *  
  * This code is licensed under the GNU GPL v2.0 or any later version.
- * For details, see the COPYING file at the root of this distribution
+ * For details, see the COPYING file in the root of this project
  * or at <https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt>.
  */
 
