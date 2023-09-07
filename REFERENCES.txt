@@ -1,4 +1,4 @@
-Bibliografia
+Referências
 
 DA COSTA, Nattane Luíza. 
 Como implementar BATALHA NAVAL em JAVA com MÉTODOS 
