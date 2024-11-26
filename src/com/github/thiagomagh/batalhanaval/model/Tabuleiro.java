@@ -8,7 +8,7 @@
 
 package com.github.thiagomagh.batalhanaval.model;
 
-// Uncomment the following line if you wish to use @NonNull annotation.
+// Descomente a seguinte linha caso desejar usar a anotação @NonNull.
 // import org.eclipse.jdt.annotation.NonNull;
 
 import com.github.thiagomagh.batalhanaval.factory.FactoryNavio;
@@ -171,7 +171,7 @@ public class Tabuleiro {
 		imprimirLinhaInferior();
 	}
 	
-	// Uncomment the following line if you wish to use @NonNull annotation.
+	// Descomente a seguinte linha caso desejar usar a anotação @NonNull.
 	public void imprimirLinha(char /* @NonNull */ [] tab) {
 		for (int i = 0; i < tab.length; i++) {
 			if (tab[i] == '#') {
