@@ -1,4 +1,4 @@
-# batalha-naval-jogo
+# Batalha Naval
 Jogo de Batalha Naval feito em Java com Orientação a Objetos.
 
 ## Referências
