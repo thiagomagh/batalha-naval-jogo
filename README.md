@@ -2,7 +2,6 @@
 Jogo de Batalha Naval feito em Java com Orientação a Objetos.
 
 ## Referências
-
 - DA COSTA, Nattane Luíza. 
 Como implementar BATALHA NAVAL em JAVA com MÉTODOS 
 ESTATÍCOS e SEM orientação a objetos. YouTube, 2022. 
